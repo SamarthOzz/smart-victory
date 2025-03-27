@@ -1,5 +1,7 @@
 - Hi, I’m samarth
-- Im a final year engineering student at NSUT,New Delhi
+- I am an engineering graduate from NSUT, New Delhi. Interested in field of Analytics.
+- I am proficient in Excell, SQL and PowerBI.
+
 
   
 
